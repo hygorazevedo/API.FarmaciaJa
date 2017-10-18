@@ -41,6 +41,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UsuarioService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FarmaciaJa.API.Domain\FarmaciaJa.API.Entities.csproj">
+      <Project>{69749B73-A3AC-4E89-A905-9C78CAAECB43}</Project>
+      <Name>FarmaciaJa.API.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,16 @@
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\FarmaciaJa.API.Repositories.dll.config
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\FarmaciaJa.API.Repositories.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\FarmaciaJa.API.Repositories.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\Dapper.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\FarmaciaJa.API.Domain.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\FarmaciaJa.API.Domain.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\Dapper.xml
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\obj\Debug\FarmaciaJa.API.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\obj\Debug\FarmaciaJa.API.Repositories.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\obj\Debug\FarmaciaJa.API.Repositories.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\AutoMapper.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Repositories\bin\Debug\AutoMapper.xml

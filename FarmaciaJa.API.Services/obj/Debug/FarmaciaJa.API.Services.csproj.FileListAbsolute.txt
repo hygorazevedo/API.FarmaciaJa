@@ -1,0 +1,7 @@
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Debug\FarmaciaJa.API.Services.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Debug\FarmaciaJa.API.Services.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Debug\FarmaciaJa.API.Domain.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Debug\FarmaciaJa.API.Domain.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\obj\Debug\FarmaciaJa.API.Services.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\obj\Debug\FarmaciaJa.API.Services.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\obj\Debug\FarmaciaJa.API.Services.pdb

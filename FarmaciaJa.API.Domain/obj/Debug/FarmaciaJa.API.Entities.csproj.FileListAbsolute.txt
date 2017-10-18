@@ -1,0 +1,5 @@
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Domain\bin\Debug\FarmaciaJa.API.Domain.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Domain\bin\Debug\FarmaciaJa.API.Domain.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Domain\obj\Debug\FarmaciaJa.API.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Domain\obj\Debug\FarmaciaJa.API.Domain.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Domain\obj\Debug\FarmaciaJa.API.Domain.pdb

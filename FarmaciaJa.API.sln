@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.15
+VisualStudioVersion = 15.0.26228.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaciaJa.API.Presentation", "FarmaciaJa.API\FarmaciaJa.API.Presentation.csproj", "{7F396F11-9144-411A-B339-AC85E4CE781E}"
 EndProject
@@ -18,8 +18,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infraestructure", "4.Infraestructure", "{80B0710F-BB4D-4D1B-9904-3515B00972AA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaciaJa.API.Repositories", "FarmaciaJa.API.Repositories\FarmaciaJa.API.Repositories.csproj", "{DA347E05-C7F6-4313-8EF2-949FE02D9F4D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmaciaJa.API.Adapters", "FarmaciaJa.API.Adapters\FarmaciaJa.API.Adapters.csproj", "{4465C373-E012-4ACA-B3EA-47FA34EE4A6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +41,6 @@ Global
 		{DA347E05-C7F6-4313-8EF2-949FE02D9F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA347E05-C7F6-4313-8EF2-949FE02D9F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA347E05-C7F6-4313-8EF2-949FE02D9F4D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4465C373-E012-4ACA-B3EA-47FA34EE4A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4465C373-E012-4ACA-B3EA-47FA34EE4A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4465C373-E012-4ACA-B3EA-47FA34EE4A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4465C373-E012-4ACA-B3EA-47FA34EE4A6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +50,5 @@ Global
 		{69749B73-A3AC-4E89-A905-9C78CAAECB43} = {A01770DD-311B-4299-8426-A0FFD1AE4D38}
 		{043054F7-7B7A-4962-BD5A-B99CFFD01461} = {B2008B88-34CD-45DE-9DA7-94A299F43373}
 		{DA347E05-C7F6-4313-8EF2-949FE02D9F4D} = {80B0710F-BB4D-4D1B-9904-3515B00972AA}
-		{4465C373-E012-4ACA-B3EA-47FA34EE4A6F} = {A01770DD-311B-4299-8426-A0FFD1AE4D38}
 	EndGlobalSection
 EndGlobal
