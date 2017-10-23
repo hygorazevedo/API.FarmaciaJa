@@ -29,7 +29,11 @@ C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.dll.conf
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.dll
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.pdb
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Antlr3.Runtime.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\EntityFramework.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Adapters.dll
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Domain.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Interfaces.dll
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Repositories.dll
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Services.dll
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Microsoft.AI.Agent.Intercept.dll
@@ -54,12 +58,16 @@ C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\System.Web.WebPages.Dep
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\System.Web.WebPages.dll
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\System.Web.WebPages.Razor.dll
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\WebGrease.dll
-C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\EntityFramework.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\AutoMapper.dll
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Dapper.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Adapters.pdb
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Domain.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Interfaces.pdb
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Repositories.pdb
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Repositories.dll.config
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\FarmaciaJa.API.Services.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\EntityFramework.xml
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\EntityFramework.SqlServer.xml
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Ninject.xml
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Newtonsoft.Json.xml
@@ -79,7 +87,7 @@ C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Microsoft.AI.Dependency
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Microsoft.AI.Web.xml
-C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\EntityFramework.xml
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\AutoMapper.xml
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\Dapper.xml
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\pt-br\System.Net.Http.Formatting.resources.dll
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\pt-br\System.Web.Helpers.resources.dll
@@ -94,5 +102,3 @@ C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\pt-br\System.Web.WebPag
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\obj\Debug\FarmaciaJa.API.Presentation.csprojResolveAssemblyReference.cache
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\obj\Debug\FarmaciaJa.API.dll
 C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\obj\Debug\FarmaciaJa.API.pdb
-C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\AutoMapper.dll
-C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API\bin\AutoMapper.xml

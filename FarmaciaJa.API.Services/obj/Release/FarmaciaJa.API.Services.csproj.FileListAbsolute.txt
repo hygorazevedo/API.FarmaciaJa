@@ -1,0 +1,11 @@
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Release\FarmaciaJa.API.Services.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Release\FarmaciaJa.API.Services.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Release\FarmaciaJa.API.Adapters.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Release\FarmaciaJa.API.Domain.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Release\FarmaciaJa.API.Interfaces.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Release\FarmaciaJa.API.Adapters.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Release\FarmaciaJa.API.Domain.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\bin\Release\FarmaciaJa.API.Interfaces.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\obj\Release\FarmaciaJa.API.Services.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\obj\Release\FarmaciaJa.API.Services.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Services\obj\Release\FarmaciaJa.API.Services.pdb

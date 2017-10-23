@@ -40,13 +40,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FarmaciaService.cs" />
+    <Compile Include="ProdutoService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UsuarioService.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FarmaciaJa.API.Adapters\FarmaciaJa.API.Adapters.csproj">
+      <Project>{4465C373-E012-4ACA-B3EA-47FA34EE4A6F}</Project>
+      <Name>FarmaciaJa.API.Adapters</Name>
+    </ProjectReference>
     <ProjectReference Include="..\FarmaciaJa.API.Domain\FarmaciaJa.API.Entities.csproj">
       <Project>{69749B73-A3AC-4E89-A905-9C78CAAECB43}</Project>
       <Name>FarmaciaJa.API.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FarmaciaJa.API.Interfaces\FarmaciaJa.API.Interfaces.csproj">
+      <Project>{C1659125-3F1D-4989-9E66-B49F8850CC14}</Project>
+      <Name>FarmaciaJa.API.Interfaces</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

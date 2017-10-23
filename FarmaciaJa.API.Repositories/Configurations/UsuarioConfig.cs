@@ -7,16 +7,18 @@ namespace FarmaciaJa.API.Repositories.Configurations
     {
         public UsuarioConfig()
         {
-            HasKey(p => p._id);
-            Property(p => p.nome);
-            Property(p => p.email);
-            Property(p => p.telefone);
-            Property(p => p.usuario);
-            Property(p => p.senha);
-            Property(p => p.logado);
-            Property(p => p.logarAuto);
+            Property(e => e.nome);
 
-            ToTable("usuario");
+            Property(e => e.email);
+
+            Property(e => e.telefone);
+
+            Property(e => e.usuario);
+
+            Property(e => e.senha);
+
+            HasOptional(e => e.endereco)
+                .WithRequired(e => e.usuario);
         }
     }
 }

@@ -1,7 +1,6 @@
-﻿using FarmaciaJa.API.Domain.DTOs;
-using FarmaciaJa.API.Domain.Interfaces.Repository;
+﻿using FarmaciaJa.API.Adapters.DTOs;
 using FarmaciaJa.API.Domain.Interfaces.Service;
-using System.Collections.Generic;
+using FarmaciaJa.API.Interfaces.Repository.EF;
 
 namespace FarmaciaJa.API.Services
 {
@@ -14,14 +13,19 @@ namespace FarmaciaJa.API.Services
             _usuarioRepository = usuarioRepository;
         }
 
-        public IEnumerable<UsuarioDTO> ListarUsuarios()
+        public void CriarUsuario(UsuarioDTO usuarioDTO)
         {
-            return _usuarioRepository.ListarUsuarios();
+            _usuarioRepository.CriarUsuario(usuarioDTO);
         }
 
-        public UsuarioDTO BuscarUsuario(int id)
+        public void AlterarUsuario(UsuarioDTO usuarioDTO)
         {
-            return _usuarioRepository.BuscarUsuario(id);
+            _usuarioRepository.AlterarUsuario(usuarioDTO);
+        }
+
+        public void RemoverUsuario(UsuarioDTO usuarioDTO)
+        {
+            _usuarioRepository.RemoverUsuario(usuarioDTO);
         }
     }
 }

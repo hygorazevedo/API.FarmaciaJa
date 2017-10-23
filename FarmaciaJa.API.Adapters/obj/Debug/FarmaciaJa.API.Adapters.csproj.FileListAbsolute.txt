@@ -1,0 +1,5 @@
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Adapters\bin\Debug\FarmaciaJa.API.Adapters.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Adapters\bin\Debug\FarmaciaJa.API.Adapters.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Adapters\obj\Debug\FarmaciaJa.API.Adapters.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Adapters\obj\Debug\FarmaciaJa.API.Adapters.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Adapters\obj\Debug\FarmaciaJa.API.Adapters.csprojResolveAssemblyReference.cache

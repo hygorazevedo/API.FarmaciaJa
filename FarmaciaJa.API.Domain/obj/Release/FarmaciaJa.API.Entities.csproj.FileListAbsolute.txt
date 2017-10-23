@@ -1,0 +1,4 @@
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Domain\bin\Release\FarmaciaJa.API.Domain.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Domain\bin\Release\FarmaciaJa.API.Domain.pdb
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Domain\obj\Release\FarmaciaJa.API.Domain.dll
+C:\Users\Hygor de Lima\API.FarmaciaJa\FarmaciaJa.API.Domain\obj\Release\FarmaciaJa.API.Domain.pdb

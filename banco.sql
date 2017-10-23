@@ -1,7 +1,9 @@
-create database farmacia_ja
+use master
+create database farmaciaja
 go
-use farmacia_ja
+use farmaciaja
 go
+
 create table usuario(
 	_id int identity(1,1) not null,
 	nome varchar(100) not null,
@@ -10,7 +12,7 @@ create table usuario(
 	usuario varchar(50) not null,
 	senha varchar(30) not null,
 	logado int not null,
-	logarAuto int  not null
+	logarAuto int  not null,
 	primary key(_id)
 )
 go
@@ -26,5 +28,21 @@ create table endereco(
 	foreign key(_id) references usuario(_id)
 )
 go
-INSERT INTO farmacia_ja..usuario
-VALUES('HYGOR', 'HYGOR@HOTMAIL.COM', '31993755276', 'HYGORL', '123456789', 1, 1)
+create table farmacia(
+	_id int not null,
+	descFarmacia varchar(255) not null,
+	endereco varchar(255) not null,
+	mediaTempoEntrega float not null,
+	mediaNotaAtendimento float not null,
+	informacoesFarmacia varchar(255) not null,
+	primary key(_id)
+)
+go
+create table produto(
+	_id int not null,
+	farmacia_id int not null,
+	descProduto varchar(255) not null,
+	nomeProduto varchar(100) not null,
+	valorProduto money not null,
+	primary key(_id)
+)

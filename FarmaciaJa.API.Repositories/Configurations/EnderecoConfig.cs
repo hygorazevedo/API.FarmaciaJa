@@ -7,16 +7,20 @@ namespace FarmaciaJa.API.Repositories.Configurations
     {
         public EnderecoConfig()
         {
-            HasKey(p => p._id);
-            Property(p => p._id);
-            Property(p => p.logradouro);
-            Property(p => p.numero);
-            Property(p => p.complemento);
-            Property(p => p.bairro);
-            Property(p => p.cidade);
-            Property(p => p.Estado);
+            Property(e => e.logradouro)
+                .IsUnicode(false);
 
-            ToTable("endereco");
+            Property(e => e.complemento)
+                .IsUnicode(false);
+
+            Property(e => e.bairro)
+                .IsUnicode(false);
+
+            Property(e => e.cidade)
+                .IsUnicode(false);
+
+            Property(e => e.estado)
+                .IsUnicode(false);
         }
     }
 }

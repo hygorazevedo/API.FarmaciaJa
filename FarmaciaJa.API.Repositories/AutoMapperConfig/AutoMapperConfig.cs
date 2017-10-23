@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
+using FarmaciaJa.API.Adapters.DTOs;
 using FarmaciaJa.API.Domain;
-using FarmaciaJa.API.Domain.DTOs;
 
 namespace FarmaciaJa.API.Repositories.AutoMapperConfig
 {
@@ -12,6 +12,8 @@ namespace FarmaciaJa.API.Repositories.AutoMapperConfig
             {
                 x.CreateMap<Usuario, UsuarioDTO>().ReverseMap();
                 x.CreateMap<Endereco, EnderecoDTO>().ReverseMap();
+                x.CreateMap<Farmacia, FarmaciaDTO>().ReverseMap();
+                x.CreateMap<Produto, ProdutoDTO>().ReverseMap();
             });
         }
     }
